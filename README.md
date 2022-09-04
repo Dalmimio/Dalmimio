@@ -9,6 +9,8 @@
 
 <hr/>
 
+<img align="right" alt="Rafa-pic" height="120" style="border-radius:1rem;" src="https://media0.giphy.com/media/weHk0Zk6xlG8Fecupl/giphy.gif?cid=790b761171f7315447a1bd04084870600bed0fedc4ccb65a&rid=giphy.gif&ct=g">
+
 <details close="true">
   <summary><b>:computer: &nbsp;About me</b></summary>
   
@@ -21,6 +23,8 @@
   - ⚡ Fun fact: ***we are stardust***
  </details>
  
+  
+
 
 <h3 align="left"> :link: Connect with me:</h3>
 
