@@ -1,4 +1,4 @@
-### Hi 👋 I'm Delilah.
+### Hi 👋 I'm Dalila.
 
 ***craftswoman and curious developer***
 
