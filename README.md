@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Delilah.
 
-***Analytical and curious developer***
+***craftswoman and curious developer***
 
 <hr/>
 
@@ -21,8 +21,6 @@
   - ⚡ Fun fact: ***A shrimp's heart is in its head***
  </details>
  
-<hr/>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://twitter.com/i/status/1566544745006075912">
 
 <h3 align="left"> :link: Connect with me:</h3>
 
@@ -38,4 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmimio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<hr/>
 
+![Snake animation](https://github.com/dalmimio/dalmimio/blob/output/github-contribution-grid-snake.svg)
