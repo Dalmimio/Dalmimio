@@ -18,7 +18,7 @@
   - 💬 Ask me about ***Anything***
   - 📫 How to reach me: dalimistura@gmail.com
   - 😄 Pronouns: she/her
-  - ⚡ Fun fact: ***A shrimp's heart is in its head***
+  - ⚡ Fun fact: ***we are stardust***
  </details>
  
 
