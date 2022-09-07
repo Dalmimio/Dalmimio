@@ -5,11 +5,15 @@
 <hr/>
 
 ### :star: Skillset:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,angular,javascript,php,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,angular,javascript,php,spring,mysql,bootstrap)](https://skillicons.dev)
+
+
+### Extras
+[![My Skills](https://skillicons.dev/icons?i=git,github,ps)](https://skillicons.dev)
 
 <hr/>
 
-<img align="right" alt="Rafa-pic" height="120" style="border-radius:1rem;" src="https://media0.giphy.com/media/weHk0Zk6xlG8Fecupl/giphy.gif?cid=790b761171f7315447a1bd04084870600bed0fedc4ccb65a&rid=giphy.gif&ct=g">
+<img align="right" alt="dali-pic" height="120" style="border-radius:1rem;" src="https://media0.giphy.com/media/weHk0Zk6xlG8Fecupl/giphy.gif?cid=790b761171f7315447a1bd04084870600bed0fedc4ccb65a&rid=giphy.gif&ct=g">
 
 <details close="true">
   <summary><b>:computer: &nbsp;About me</b></summary>
