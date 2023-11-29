@@ -47,7 +47,3 @@
   <img height="180em" src="https://github-readme-stat-dalmimio.vercel.app/api?username=dalmimio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stat-dalmimio.vercel.app/api/top-langs/?username=dalmimio&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<hr/>
-
-![Snake animation](https://github.com/dalmimio/dalmimio/blob/output/github-contribution-grid-snake.svg)
