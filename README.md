@@ -1,49 +1,67 @@
-### Hi there, I'm Dalila. 🖖🏻
 
-***craftswoman and curious developer***
-
-<hr/>
-
-### :star: Skillset:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,java,angular,php,mysql)](https://skillicons.dev)
+# Dalmita Pimienta 
+#### Tester QA
+Analista QA, apasionada en el mundo las pruebas funcionales y no funcional
 
 
-### Extras
-[![My Skills](https://skillicons.dev/icons?i=git,github,ps)](https://skillicons.dev)
-
-<hr/>
-
-<img align="right" alt="dali-pic" height="120" style="border-radius:1rem;" src="https://media0.giphy.com/media/weHk0Zk6xlG8Fecupl/giphy.gif?cid=790b761171f7315447a1bd04084870600bed0fedc4ccb65a&rid=giphy.gif&ct=g">
-
-<details close="true">
-  <summary><b>:computer: &nbsp;About me</b></summary>
-  
-  - 🔭 I’m currently working on  ***Portfolio***
-  - 🌱 I’m currently learning ***Java/Javascript***
-  - 🤔 I’m looking for help with ***desing***
-  - 💬 Ask me about ***Anything***
-  - 📫 How to reach me: dalimistura@gmail.com
-  - 😄 Pronouns: she/her
-  - ⚡ Fun fact: ***we are stardust***
- </details>
- 
-  
 
 
-<h3 align="left"> :link: Connect with me:</h3>
+## 🛠 Skills
 
-<p align = "left">
-<a href="https://www.linkedin.com/in/dalilamf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+### Hard Skills
+- Creación y ejecución de casos de prueba
+- Evidencia de Bugs
+- JMETER
+- JIRA
+- Confluence 
+- Zephyr
+- SQL
+- Postman
+- SCRUM
+- KANBAN
+- Pruebas de accesibilidad
+- Pruebas UX UI
+- Pruebas Moviles
+- GIT
+
+### Soft Skills
+- Comunicación asertiva
+- Trabajo en equipo
+- Gestión del tiempo
+- Autogestión
+- Hablar en público
+
+## Experiencia
+
+Mentora - (2023 - actualidad)
+Mindhub LA 
+- Dictado de clases
+- Creacion de contenido
+- Revisar y dar feedback
+
+Tester - (2024 - actualidad)
+Prodsoftware 
+- Act 1
+- Creacion de documentacion
+- Hacer instructivos
+## Certificaciones
+
+- Tester QA - marzo 2024 a noviembre 2024 - 230h
+Mindhub LA + PROTalento + Goyin
+
+[Link a mi insignia](HTTPS://www.google.com)
+
+## Proyectos
+
+Analisis de pagina WWWWAPAS
+- Descripcion: Se realizo a la página un smoke test, además de validar funcionalidades principales y realizar pruebas de carga. La información esta ordenadas por ramas
+[Proyecto WWWWAPAS](https://github.com/Dalmimio/Pruebas)
+## 🚀 Contact 
+Podes contactarme desde los siguientes enlaces a mis redes sociales
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 <a href="mailto:dalimistura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
-  </p>
-<hr/>
-
-### :star: Stats:
-
-<div align="center">
-  <a href="https://github.com/dalmimio">
-  <img height="180em" src="https://github-readme-stat-dalmimio.vercel.app/api?username=dalmimio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stat-dalmimio.vercel.app/api/top-langs/?username=dalmimio&layout=compact&langs_count=7&theme=dark"/>
-</div>
