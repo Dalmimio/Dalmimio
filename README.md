@@ -9,7 +9,7 @@
 
 
 ### Extras
-[![My Skills](https://skillicons.dev/icons?i=git,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,ps,figma)](https://skillicons.dev)
 
 <hr/>
 
