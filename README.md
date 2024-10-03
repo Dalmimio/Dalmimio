@@ -9,6 +9,12 @@ Analista QA, apasionada en el mundo las pruebas funcionales y no funcional
 ## 🛠 Skills
 
 ### Hard Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,figma,ps&perline=3" />
+  </a>
+</p>
 - Creación y ejecución de casos de prueba
 - Evidencia de Bugs
 - JMETER
